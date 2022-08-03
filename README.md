@@ -23,7 +23,7 @@ Analysis of the Total Fare by City Type is presented in the chart below. As can 
 
 ### Figure 1. 
 
-![Summary Chart] (analysis/PyBer_fare_summary.png]
+![Summary Chart] (https://raw.githubusercontent.com/melpatjen16/PyBer_Analysis/main/analysis/PyBer_fare_summary.png]
 
 
 ## Summary
