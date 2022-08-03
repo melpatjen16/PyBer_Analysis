@@ -15,7 +15,7 @@ As can be seen in the table below. the total number of rides, total number of dr
 
 ### Table 1. 
 
- ![PyBer_Summary_Table] (analysis/PyBer_Summary_Table.png]
+ ![PyBer_Summary_Table] (analysis/PyBer_Summary_Table.png)
 
 
 Analysis of the Total Fare by City Type is presented in the chart below. As can be seen, fares for all three city types follow a similar trend over time. The current time period displayed in January 2019 to April 2019. While all cities follow the same trend, demand is clearly highest in urban cities where the greatest amount of fares are gained. However, because of the number of riders, the average rate per ride or driver is lowest. Similar to wait is shown in the table above, rural cities make the least amount of money over the time period. 
@@ -23,7 +23,7 @@ Analysis of the Total Fare by City Type is presented in the chart below. As can 
 
 ### Figure 1. 
 
- ![PyBer_fare_summary] (analysis/PyBer_fare_summary.png]
+ ![PyBer_fare_summary] (analysis/PyBer_fare_summary.png)
 
 
 ## Summary
