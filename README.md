@@ -2,7 +2,7 @@
 
 ## Overview of Analysis Project:
 
-The purpose of this project was to analyze the CyBer ride-sharing data to determine differences in rider counts, drivers, and fare mounts across three city types  - Urban, Suburban, and Rural. 
+The purpose of this project was to analyze the PyBer ride-sharing data to determine differences in rider counts, drivers, and fare mounts across three city types  - Urban, Suburban, and Rural. 
 
 Rider Data and City Data was analyzed and combined to evaluate variances in average fares per driver and average fares per ride for all three city types. 
 
