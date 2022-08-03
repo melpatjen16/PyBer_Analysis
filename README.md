@@ -33,4 +33,4 @@ The results of the analysis yield three important recommendations for the CEO ad
 
 2. Suburban ridership is interesting in that it presents as a midpoint between urban and rural cities. It is recommended that there be a pilot program to establish a midpoint cost of fare based on suburban data and make the average for all cities equal to the average fare per ride the same for all by setting that fare. 
 
-3. Additional information would be useful in this analysis. Specifically, the date, city, and fare is useful but we may be able to gauge the depth of disparities is we consider the distance of the trip. Short trips should not cost as much as long trip and there may be opportunity to remedy disparities when distance is equal when comparing an urban city ride and a rural city ride. 
+3. Additional information would be useful in this analysis. Specifically, the date, city, and fare are useful but we may be able to gauge the depth of disparities if we consider the distance of the trip. Short trips should not cost as much as long trips and there may be opportunity to remedy disparities if distance is equal when comparing an urban city ride to a rural city ride. 
